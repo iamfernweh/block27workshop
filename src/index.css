@@ -23,6 +23,7 @@ a:hover {
 }
 
 body {
+  cursor: wait;
   margin: 0;
   display: flex;
   place-items: center;
